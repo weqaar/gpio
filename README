@@ -1,0 +1,15 @@
+Program name: UDP GPIO Controller
+Main executable: GPIO_Server.py
+Author: "Weqaar Janjua" <weqaar.janjua@sensorflock.com>
+
+
+Files Description:
+------------------
+gpio.conf - configuration file
+
+Description:
+------------
+*) Execute the GPIO UDP Server on machine that is required to control GPIO PINs
+*) Controls GPIO over UDP
+*) A gtk client is provided under the client directory
+
